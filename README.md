@@ -1,4 +1,4 @@
-# geo-report
+# geospoc-maps
 
 > this project is made for the assignemnt purpose of geospoc by deepak thakur.this is private project.
 please find below details to run 
